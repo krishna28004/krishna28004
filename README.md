@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Krishna
 
-<!--
-**krishna28004/krishna28004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 BTech CSE Student  
+💻 Learning Web Development  
+🔥 Interested in building real-world problem-solving apps  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Java
+- JavaScript
+- HTML, CSS
+  
+---
+
+## 📌 Current Focus
+- Building real-world projects
+- Improving problem solving
+- Improving JAVA foundation
+
+---
+
+## 📊 GitHub Stats
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna28004&show_icons=true&theme=tokyonight)
