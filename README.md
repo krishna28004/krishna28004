@@ -8,10 +8,8 @@
 
 ## 🚀 About Me
 
-- 🎓 BTech CSE student focused on project-based learning over just theory  
+- 🎓 BTech CSE student focused on project-based learning  
 - 🧠 Interested in solving real-world student problems using technology  
-- 💻 Currently building Web and Java-based applications  
-- 📈 Actively improving technical communication and interview skills  
 - 🎯 Goal: Build strong, meaningful projects that stand out  
 - 📫 Reach me at: krishnakumar2811004@gmail.com  
 
