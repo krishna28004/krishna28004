@@ -42,10 +42,12 @@
 ---
 
 ## 📌 Featured Projects
-
-- 🔹 Smart Reminder App (In Progress)  
-- 🔹 Java Health Assistant (CLI Based)  
-- 🔹 Web Development Practice Projects  
+ 
+- 🔹 Artfolio (A Portfolio For My Artworks)  
+- 🔹 Smart Reminder App (In Progress)
+- 🔹 Territory Runner (Android App)
+- 🔹 Java Health Assistant (CLI Based)
+- 🔹 Smart Reminder App (In Progress)   
 
 ---
 
