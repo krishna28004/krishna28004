@@ -6,12 +6,12 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 BTech CSE student focused on project-based learning  
-- 🧠 Interested in solving real-world student problems using technology  
-- 🎯 Goal: Build strong, meaningful projects that stand out  
-- 📫 Reach me at: krishnakumar2811004@gmail.com  
+-  BTech CSE student focused on project-based learning  
+-  Interested in solving real-world student problems using technology  
+-  Goal: Build strong, meaningful projects that stand out  
+-  Reach me at: krishnakumar2811004@gmail.com  
 
 ---
 
@@ -44,10 +44,8 @@
 ## 📌 Featured Projects
  
 - 🔹 Artfolio (A Portfolio For My Artworks)  
-- 🔹 Smart Reminder App (In Progress)
 - 🔹 Territory Runner (Android App)
-- 🔹 Java Health Assistant (CLI Based)
-- 🔹 Smart Reminder App (In Progress)   
+- 🔹 Java Health Assistant (CLI Based) 
 
 ---
 
