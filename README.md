@@ -1,31 +1,20 @@
-```md id="final-github-profile"
-
 <h1 align="center">Hey 👋, I'm Krishna Kumar</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=6A9EF8&center=true&vCenter=true&width=700&lines=Building+Projects+That+Solve+Real+Problems;BTech+CSE+Student+%7C+Open+Source+Contributor;Web+Developer+%7C+Creative+Builder;Currently+Exploring+Scalable+Product+Development" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/krishna28004">
-    <img src="https://komarev.com/ghpvc/?username=krishna28004&label=Profile+Views&color=0e75b6&style=flat" />
-  </a>
-
-  <a href="https://github.com/krishna28004?tab=followers">
-    <img src="https://img.shields.io/github/followers/krishna28004?label=Followers&style=social" />
-  </a>
-</p>
-
 ---
 
 # 💫 About Me
 
-- 🎓 BTech Computer Science student passionate about building impactful tech products  
-- 🚀 Focused on project-based learning, open source, and real-world problem solving  
-- 🏃 Currently building a gamified territory-based running application  
-- 🌱 Exploring scalable web development, UI/UX systems, and product engineering
-- ⚙️ Exploring modern web tech, product architecture, & full-stack development through hands-on projects
+- 🎓 BTech Computer Science student focused on building real-world software products  
+- 🚀 Currently developing a gamified territory-based running application with GPS-driven competitive mechanics  
+- 🧠 Interested in scalable application development, system design concepts, and interactive user experiences  
+- ⚙️ Exploring modern web technologies, product architecture, and full-stack development through hands-on projects  
 - 🤝 Open Source Contributor at **memoriLabs/memori**  
+- 🎨 Strong interest in UI/UX design, creative development, and visually engaging digital experiences  
+- 📚 Prefer learning by building production-oriented projects and collaborating in open-source environments  
 - 📫 Reach me at: **krishnakumar2811004@gmail.com**
 
 ---
@@ -79,13 +68,17 @@ CLI-based health assistant built in Java that provides basic medical guidance, r
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishna28004&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna28004&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishna28004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna28004&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=krishna28004&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=krishna28004&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -110,5 +103,4 @@ CLI-based health assistant built in Java that provides basic medical guidance, r
 <p align="center">
   <i>"Build projects that people actually remember."</i>
 </p>
-
 ```
