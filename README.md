@@ -66,18 +66,9 @@ CLI-based health assistant built in Java that provides basic medical guidance, r
 # 📈 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishna28004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna28004&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=krishna28004&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=krishna28004&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
