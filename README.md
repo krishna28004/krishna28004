@@ -8,14 +8,12 @@
 
 # 💫 About Me
 
-- 🎓 BTech Computer Science student focused on building real-world software products  
-- 🚀 Currently developing a gamified territory-based running application with GPS-driven competitive mechanics  
-- 🧠 Interested in scalable application development, system design concepts, and interactive user experiences  
-- ⚙️ Exploring modern web technologies, product architecture, and full-stack development through hands-on projects  
+- 🎓 BTech Computer Science student building real-world software projects  
+- 🚀 Developing a gamified GPS-based running application  
+- ⚙️ Exploring scalable web development and full-stack systems through hands-on projects  
 - 🤝 Open Source Contributor at **memoriLabs/memori**  
-- 🎨 Strong interest in UI/UX design, creative development, and visually engaging digital experiences  
-- 📚 Prefer learning by building production-oriented projects and collaborating in open-source environments  
 - 📫 Reach me at: **krishnakumar2811004@gmail.com**
+
 
 ---
 
@@ -94,13 +92,12 @@ CLI-based health assistant built in Java that provides basic medical guidance, r
 # ⚡ Current Focus
 
 - Building scalable and visually polished applications  
-- Improving problem-solving and development workflow  
+- Improving problem-solving with DSA and development workflow  
 - Contributing more to open source  
-- Learning advanced frontend engineering and system design  
+- Learning backend engineering and system design  
 
 ---
 
 <p align="center">
   <i>"Build projects that people actually remember."</i>
 </p>
-```
